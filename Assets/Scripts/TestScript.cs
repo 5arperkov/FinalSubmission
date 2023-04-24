@@ -5,11 +5,11 @@ using UnityEngine.UI;
 
 public class TestScript : MonoBehaviour
 {
+    public GameObject _go;
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Testing visual studio");
-
+        
     }
 
     // Update is called once per frame
